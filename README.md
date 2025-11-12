@@ -1,16 +1,13 @@
-## Hi there 👋
+# Fadila Karimli — Backend Developer👩🏻‍💻
 
-<!--
-**fadilakarimli/FadilaKarimli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm **Fadila Karimli**, a backend developer focused on building clean, reliable, and scalable server-side applications.  
+I enjoy designing solid architectures, writing maintainable code, and solving real problems with logic and simplicity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Languages & Frameworks:** C#, ASP.NET Core, Entity Framework Core, LINQ, RESTful APIs  
+**Databases:** MS SQL Server, PostgreSQL, SQLite  
+**Tools & Concepts:** Git, GitHub, Swagger, Postman, Dependency Injection, Middleware, SOLID principles, Clean Architecture
+
