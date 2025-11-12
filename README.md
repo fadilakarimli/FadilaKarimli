@@ -12,7 +12,7 @@ I focus on designing solid architectures, writing maintainable code, and solving
 - C# • ASP.NET Core • Entity Framework Core • LINQ • RESTful APIs
 
 **Databases**
-- MS SQL Server • PostgreSQL • SQLite
+- MS SQL Server
 
 **Tools & Practices**
 - Git & GitHub • Swagger • Postman
